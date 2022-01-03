@@ -5,7 +5,7 @@
   -The idea to the each problem is given below the code.
   -I used java implementation... but you can use any programming language.
   -I used simple implementation for understanding purpose.
-  -I have created seperate folders for each topics.
+  -I have created separate folders for each topics.
   -Most of the problems are efficient solutions :)
   -If any doubts pring me at prathikrajesh02@gmail.com
   
